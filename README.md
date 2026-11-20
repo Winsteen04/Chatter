@@ -19,8 +19,3 @@ This is a static website built with HTML and CSS. It includes:
 Once you enable GitHub Pages, the site will be available at:  
 **https://winsteen04.github.io/Chatter/**
 
-## How to View Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Winsteen04/Chatter.git
